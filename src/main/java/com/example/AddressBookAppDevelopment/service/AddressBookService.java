@@ -1,8 +1,8 @@
 package com.example.AddressBookAppDevelopment.service;
 
 
-import com.example.AddressBookApp.DTOs.AddressBookDTO;
-import com.example.AddressBookApp.model.AddressBook;
+import com.example.AddressBookAppDevelopment.DTOs.AddressBookDTO;
+import com.example.AddressBookAppDevelopment.model.AddressBook;
 
 import java.util.List;
 
